@@ -20,7 +20,7 @@ The functional components featured are:
 
 
 #### Responsive design
-Responsive design allows for . The Flexbox model allows this website to be viewed on different screen sizes.
+Responsive design is a design approach in creating content that adjusts to various screen sizes. In this website, the Flexbox model is used to accomodate screen sizes.
 
 #### Navigation bar
 A navigation bar serves a pivotal function in this website. It allows users to access information in different webpages. The navigation bar in this website can be found on the top of every page for easy access. It's simple design and large font allows for clear and easy navigation.

@@ -56,5 +56,8 @@ In addition to the classic navigation menu that has links to internal pages, I h
 The target audience of the portfolio website is a prospective employer looking to engage a developer.
 
 ### Tech Stack
-The Tech Stack used are HTML and CSS.
-The deployment platform used is Netlify.
+The Tech Stack includes:
+* Programming languages; HTML5 and CSS
+* Deployment platform; Netlify
+* Source control; Github
+* Wireframes and sitemap; Balsamiq

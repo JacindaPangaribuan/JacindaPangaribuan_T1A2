@@ -29,13 +29,13 @@ A navigation bar serves a pivotal function in this website. It allows users to a
 Consistent styling creates a page flow that establishes my brand. The typography (font, size and structure), design elements and photo choices are themed to make this design coherent.
 
 #### Blog posts
-The Reviews page showcases real life people w
+The Blog posts is a place to showcase my personality, hobbies and interests.
 
 #### Reviews page
-The Reviews page showcases real life people w
+The Reviews page contains reviews from past managers and coworkers on how I am to work with.
 
 #### Social media links
-In addition to the classic navigation menu that has links to internal pages, I have also included links that direct users to external websites. For example, I have made the GitHub icon on the "Technical Skills" page a hyperlink, so the users can check out my projects on GitHub.
+In addition to the classic navigation menu that has links to internal pages, I have also included links that direct users to external websites. For example, I have made the GitHub icon on the "Technical Skills" page a hyperlink, so users can look at my projects on GitHub.
 
 ### Sitemap
 ![Sitemap](docs/sitemap.png)

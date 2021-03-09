@@ -18,21 +18,22 @@ li {
   padding-left: 20px;
   }
 
-#profileimg {
-  width: 30%;
-  height: auto;
-}
-
-.main-content {
+.about-info {
   margin-top: 10%;
   margin-left: 10%;
-  font-weight: 400;
+  width: 50%;
+}
+
+.resume {
+  margin-top: 10%;
+  margin-left: 10%;
 }
 
 footer {
   position: fixed;
   bottom: 0;
 }
+
 
 img {
   width: 40px;

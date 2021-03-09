@@ -17,22 +17,11 @@ li {
   display: inline;
   padding-left: 20px;
   }
-
-#profileimg {
-  width: 30%;
-  height: auto;
-}
-
-.main-content {
-  margin-top: 10%;
-  margin-left: 10%;
-  font-weight: 400;
-}
-
-footer {
-  position: fixed;
-  bottom: 0;
-}
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+  }
 
 img {
   width: 40px;

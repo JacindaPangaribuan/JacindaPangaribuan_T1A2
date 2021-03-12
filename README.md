@@ -35,7 +35,7 @@ The Blog posts is a place to showcase my personality, hobbies and interests.
 The Reviews page contains reviews from past managers and coworkers on how I am to work with.
 
 #### Social media links
-In addition to the classic navigation menu that has links to internal pages, I have also included links that direct users to external websites. For example, I have made the GitHub icon on the "Technical Skills" page a hyperlink, so users can look at my projects on GitHub.
+In addition to the classic navigation bar that has links to internal pages, I have also included links that direct users to external pages.
 
 ### Sitemap
 ![Sitemap](docs/sitemap.png)

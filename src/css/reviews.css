@@ -2,26 +2,53 @@
   box-sizing: border-box;
 }
 
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,300&family=Roboto+Slab:wght@300&display=swap');
+
+/* CSS for navigation bar */
 nav {
-  font-weight: 500;
-  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 14px;
   text-align: center;
 }
 
 ul {
   list-style-type: none;
-  margin: 0;
   }
 
 li {
   display: inline;
-  padding-left: 20px;
+  padding-left: 10px;
   }
 
-.main-content {
-  margin-top: 10%;
-  margin-left: 10%;
+/* CSS for main content */
+body{
+  background-color: #dad2ce;
+}
+
+main {
+  margin: 10%;
+}
+
+h1, h4 {
+  font-family: 'Roboto Slab', serif;
   font-weight: 400;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.position {
+  font-size: 14px;
+}
+
+.date {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  font-size: 12px;
 }
 
 .review-container {
@@ -32,13 +59,25 @@ li {
 
 .review {
   border: 1px solid black;
-  margin-bottom: 20px;
-  margin-left: 20px;
+  margin: 10px;
   padding: 10px;
-  width: 40%;
+  width: 100%;
 }
 
+/* Responsive design */
+@media screen and (min-width: 800px) {
+  .review {
+    border: 1px solid black;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    width: 40%;
+  }
+}
+
+/* CSS for footer */
   footer {
+    font-family: 'Montserrat', sans-serif;
     position: fixed;
     bottom: 0;
   }

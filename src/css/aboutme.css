@@ -2,44 +2,56 @@
   box-sizing: border-box;
 }
 
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,300&family=Roboto+Slab:wght@300&display=swap');
+
+/* CSS for navigation bar */
 nav {
-  font-weight: 500;
-  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 14px;
   text-align: center;
 }
 
 ul {
   list-style-type: none;
-  margin: 0;
   }
 
 li {
   display: inline;
-  padding-left: 20px;
+  padding-left: 10px;
   }
 
-.about-info {
-  margin-top: 10%;
-  margin-left: 10%;
-  width: 50%;
+/* CSS for main content */
+body{
+  background-color: #dad2ce;
 }
 
-.resume {
-  margin-top: 10%;
-  margin-left: 10%;
+main {
+  margin: 10%;
 }
 
+h1, h4 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+/* Responsive design */
+@media screen and (min-width: 800px) {
+  .about-info {
+    width: 50%;
+  }
+
+}
+
+/* CSS for footer */
 footer {
+  font-family: 'Montserrat', sans-serif;
   position: fixed;
   bottom: 0;
-}
-
-
-img {
-  width: 40px;
-  height: 40px;
-}
-
-.social-links {
-  margin-top: 5%;
 }

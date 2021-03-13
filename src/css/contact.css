@@ -3,3 +3,11 @@ img {
   width: 40px;
   height: 40px;
   }
+
+h1, p {
+  padding-bottom: 10px;
+}
+
+.social-links {
+  padding-top: 10px;
+}

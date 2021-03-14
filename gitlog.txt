@@ -1,3 +1,63 @@
+commit 59be5dd4bbb17a72edcc6209db97ccc856d32edb
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Sun Mar 14 10:50:07 2021 +1100
+
+    Add screenshots
+
+commit e0beb4fbafc0bd29ea7c36c82e1324f7e22f8a8a
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Sun Mar 14 10:42:22 2021 +1100
+
+    Change blog headers
+
+commit ef4c3418b033e1237c43492363326c7654872d4c
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Sun Mar 14 10:38:40 2021 +1100
+
+    Change contact.css
+
+commit a0c401610b05a47adb666951ad00a308c6de08bd
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Sun Mar 14 10:32:14 2021 +1100
+
+    Finished CSS
+
+commit f2180f4d3b2ff18ce767ce821965dd0033e6cf69
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Fri Mar 12 19:01:49 2021 +1100
+
+    create style.css
+
+commit dccb6d4a76ee0438c4c523807b400e0330528302
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Fri Mar 12 13:33:21 2021 +1100
+
+    add CSS/Responsive design and blog images
+
+commit 42a4555d3e9454032a0da1887471daee533a0529
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Tue Mar 9 22:21:25 2021 +1100
+
+    Add slide deck and HTML structure
+
+commit 3c1ebbfb1c3910c455663aeb63a8622992b87d3f
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Sat Mar 6 15:30:23 2021 +1100
+
+    Add Slide Deck Presentation
+
+commit 12d407e5442f8117af6f707a94bdda3ca87e74df
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Fri Mar 5 12:15:14 2021 +1100
+
+    Add sitemap.png
+
+commit b8253e6cc11a20c1af0729626db63461352d8fac
+Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
+Date:   Thu Mar 4 14:50:55 2021 +1100
+
+    Add index.html and update README.md
+
 commit 0efe03eaf0057300c1f71b4ccb91ff2745daad49
 Author: Jacinda Pangaribuan <jacinda2525@gmail.com>
 Date:   Thu Mar 4 12:16:56 2021 +1100
